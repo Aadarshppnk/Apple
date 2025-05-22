@@ -1,0 +1,11 @@
+Copyright (c) 2025 Aadarsh Raj Kunwer
+
+All rights reserved.
+
+This software and its source code are the intellectual property of Aadarsh Raj Kunwer.
+
+Unauthorized copying, modification, distribution, or commercial use of this software, in whole or in part, is strictly prohibited without prior written permission from the copyright holder.
+
+This software is provided "as is", without warranty of any kind, express or implied.
+
+For licensing inquiries or permission requests, please contact: [ Discord -maybemadara ].
